@@ -1,5 +1,7 @@
 # DateDropper RubyOnRails integration gem
 
+[![Gem Version](https://badge.fury.io/rb/datedropper-rails.svg)](https://badge.fury.io/rb/datedropper-rails)
+
 Use [DateDropper](http://felicegattuso.com/projects/datedropper) with Rails 3.1+
 
 ## Installation
